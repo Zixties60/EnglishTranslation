@@ -12,7 +12,7 @@ UI_20150317_000011	{@st41}คุณแน่ใจหรือไม่ว่า
 UI_20150317_000012	{@st41b}ครั้งเดียว{/}
 UI_20150317_000013	{@st41b}ทั้งหมด{/}
 UI_20150317_000014	{@st41b}หยุดชั่วคราว{/}
-UI_20150317_000015	{@st43}Adventure Journal{/}
+UI_20150317_000015	{@st43}บันทึกการผจญภัย{/}
 UI_20150317_000016	{@st43}Auction House{/}
 UI_20150317_000017	{@st59}Close the Auction House{/}
 UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
@@ -75,19 +75,19 @@ UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}ตั้งค่าเกม{/}
 UI_20150317_000076	{@st64}Use your arrow keys to select a cell!
 UI_20150317_000077	{@st43}Advancement Information {/}
-UI_20150317_000078	{@st43}เลือกคลาส
+UI_20150317_000078	{@st43}เลือก Class
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Circle {/}
 UI_20150317_000081	How many circles
-UI_20150317_000082	แสดงรายละเอียดโดยย่อของคลาส
+UI_20150317_000082	แสดงรายละเอียดโดยย่อของ Class
 UI_20150317_000083	{memo X}{@st41b}โจมตี {@sti7}%s{/}
 UI_20150317_000084	{memo X}{@st41b}สนับสนุน {@sti7}%s{/}
 UI_20150317_000085	{memo X}{@st41b}ความยาก{@sti7}%s{/}
-UI_20150317_000086	{@st59}ปิดหน้าต่างรายละเอียดคลาส{/}
+UI_20150317_000086	{@st59}ปิดหน้าต่างรายละเอียด Class{/}
 UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
+UI_20150317_000088	{@st43} เปลี่ยน Class
 UI_20150317_000089	{@sti7}{s14} ตัวละคร {/}
-UI_20150317_000090	{@sti8}{s14} คลาส {/}
+UI_20150317_000090	{@sti8}{s14} Class {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	To. WWWWWWWW and 1 other
 UI_20150317_000093	{memo X}ทั่วไป: /s <ข้อความ> {nl} ตะโกน: /y <ข้อความ> {nl} ปาร์ตี้: /p <ข้อความ>{nl} กระซิบ: /w <ชื่อทีม> <ข้อความ>
@@ -120,7 +120,7 @@ UI_20150317_000119	{memo X}{@st42b}Combat Order{/}
 UI_20150317_000120	{@st41b}ปิด{/}
 UI_20150317_000121	{s16}{b}สร้างไอเทมโดยการคลิกที่ปุ่มสร้างหรือคลิกสองครั้ง
 UI_20150317_000122	{memo X}{s16}{b}ea
-UI_20150317_000123	{memo X}{s16}{b}เลเวล
+UI_20150317_000123	{memo X}{s16}{b}Lv.
 UI_20150317_000124	{@st41b}ค้นหา{/}
 UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
 UI_20150317_000126	{memo X}{s16}{b}ea
@@ -148,10 +148,10 @@ UI_20150317_000147	{@st41b}Adopt
 UI_20150317_000148	{@st59}Confirm adoption {/}
 UI_20150317_000149	{@st43}Companion Shop
 UI_20150317_000150	{@st59}Close the Companion Shop{/}
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close the Character Information{/}
+UI_20150317_000151	{@st43}ข้อมูลอื่นๆของตัวละคร{/}{@st42}
+UI_20150317_000152	{@st59}ปิดหน้าต่างข้อมูลตัวละคร{/}
 UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
+UI_20150317_000154	{@st41b}บันทึก
 UI_20150317_000155	ชื่อทีม
 UI_20150317_000156	ชื่อตัวละคร
 UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
@@ -299,19 +299,19 @@ UI_20150317_000298	99 นาที 99 วินาที
 UI_20150317_000299	38000 คะแนน
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}ยืนยัน{/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+UI_20150317_000302	{@st59b} บันทึกการผจญภัย {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s คะแนน{/}
+UI_20150317_000304	{@st42b}{#22FF22} 10% แรก / %s คะแนน{/}
 UI_20150317_000305	{@st42b} คะแนนเฉลี่ย / %s คะแนน {/}
 UI_20150317_000306	ลำดับที่ 1 / %s คะแนน
-UI_20150317_000307	ระดับชั้น %s
+UI_20150317_000307	ลำดับที่ %s
 UI_20150317_000308	%s คะแนน
 UI_20150317_000309	Profession
 UI_20150317_000310	Team
-UI_20150317_000311	{@st59}Close Adventure Journal{/}
-UI_20150317_000312	{@st43}Adventure Journal Ranking{/}
-UI_20150317_000313	{@st43}{s22}Rank   
-UI_20150317_000314	{@st43}{s22}Name
+UI_20150317_000311	{@st59}ปิดบันทึกการผจญภัย{/}
+UI_20150317_000312	{@st43}จัดอันดับบันทึกการผจญภัย{/}
+UI_20150317_000313	{@st43}{s22}ลำดับที่   
+UI_20150317_000314	{@st43}{s22}ชื่อ
 UI_20150317_000315	{@st43}{s22}คะแนน
 UI_20150317_000316	{@st41}รายละเอียด{/}
 UI_20150317_000317	{@st43}Start Crafting{/}
@@ -370,8 +370,8 @@ UI_20150317_000369	{@st43}{s22}Item Cabinet
 UI_20150317_000370	{@st41b}Receive All
 UI_20150317_000371	{@st41b} Receive
 UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
+UI_20150317_000373	{@st42b}จำนวน
+UI_20150317_000374	{@st42b}ราคา
 UI_20150317_000375	{@st42b}Hide Seller's Name{/}
 UI_20150317_000376	{@st41b}Add
 UI_20150317_000377	Siege Coin
@@ -572,7 +572,7 @@ UI_20150317_000571	{@st43}{s22}Enhance Item{/}
 UI_20150317_000572	{@st41b}Selected Item
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
-UI_20150317_000575	{@st41} {s20}Price : %s
+UI_20150317_000575	{@st41} {s20}ราคา : %s
 UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start Item Enhancement{/}
 UI_20150317_000578	{@st59}Close Enhancement{/}
@@ -629,7 +629,7 @@ UI_20150317_000628	{@st59}Confirm Transaction{/}
 UI_20150317_000629	{@st43}Shop{/}
 UI_20150317_000630	{@st41b}Items Purchased{/}
 UI_20150317_000631	{@st41b}Items Sold{/}
-UI_20150317_000632	{memo X}{@st41b}Price{/}
+UI_20150317_000632	{memo X}{@st41b}ราคา{/}
 UI_20150317_000633	{memo X}{@st41b}Balance{/}
 UI_20150317_000634	{memo X}{@st41b}My Sold Items{/}
 UI_20150317_000635	{@st41}Empty slots{/}
@@ -644,8 +644,8 @@ UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
 UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{memo X}${@st43}Skills & Attributes{/}
-UI_20150317_000648	{memo X}${@st59}Close Classes & Skills{/}
+UI_20150317_000647	{memo X}${@st43}Skills และ Attributes{/}
+UI_20150317_000648	{memo X}${@st59}Close Classes และ Skills{/}
 UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{memo X}{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
@@ -723,37 +723,37 @@ UI_20150317_000722	{@st43}Attack Effects{/}
 UI_20150317_000723	{@st43}Defense Effects{/}
 UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Character Information (F1){/}
-UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Classes & Skills (F3){/}
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}
-UI_20150317_000730	{@st59}Quest (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friend (F7){/}
-UI_20150317_000733	{@st59}Macro (F8) {/}
+UI_20150317_000726	{@st59}หน้าต่างข้อมูลตัวละคร (F1){/}
+UI_20150317_000727	{@st59}กระเป๋า (F2){/}
+UI_20150317_000728	{@st59}Skills และ Attributes (F3){/}
+UI_20150317_000729	{@st59}บันทึกการผจญภัย (F4){/}
+UI_20150317_000730	{@st59}ภารกิจ (F5){/}
+UI_20150317_000731	{@st59}ปาร์ตี้ (F6){/}
+UI_20150317_000732	{@st59}เพื่อน (F7){/}
+UI_20150317_000733	{@st59}มาโคร (F8) {/}
 UI_20150317_000734	{@st59}Companion (F9) {/}
-UI_20150317_000735	{@st59}Help (F10) {/}
-UI_20150317_000736	{@st59}System Menu (Esc){/}
+UI_20150317_000735	{@st59}ช่วยเหลือ (F10) {/}
+UI_20150317_000736	{@st59}เมนู (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help(F1)
+UI_20150317_000738	ช่วยเหลือ(F1)
 UI_20150317_000739	Contents
-UI_20150317_000740	View Details
-UI_20150317_000741	{@st43}ตั้งค่าเกม{/}
-UI_20150317_000742	{@st43}Game{/}
+UI_20150317_000740	แสดงรายละเอียด
+UI_20150317_000741	{@st43}ปรับแต่งเกม{/}
+UI_20150317_000742	{@st43}ตั้งค่าเกม{/}
 UI_20150317_000743	{memo X}{@st41b}Show acquired EXP{/}
 UI_20150317_000744	{memo X}{@st41b}Show Character Name{/}
 UI_20150317_000745	{memo X}{@st41b}Show Team Name only{/}
 UI_20150317_000746	{memo X}{@st41b}Show Quest Guide{/}
-UI_20150317_000747	{@st43}Resolution{/}
+UI_20150317_000747	{@st43}ความละเอียดภาพ{/}
 UI_20150317_000748	{@st43}Graphics{/}
 UI_20150317_000749	{memo X}{@st41b}Full Screen{/}
 UI_20150317_000750	{memo X}{@st41b}Windowed Mode{/}
-UI_20150317_000751	{@st43}Sound{/}
+UI_20150317_000751	{@st43}เสียง{/}
 UI_20150317_000752	{memo X}{@st41b}Sound Effects Volume (%s){/}
 UI_20150317_000753	{memo X}{@st41b}BGM Volume (%s){/}
 UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}
-UI_20150317_000755	{@st43}{b}Select Language{/}
-UI_20150317_000756	{@st59}Close Settings{/}
+UI_20150317_000755	{@st43}{b}เลือกภาษา{/}
+UI_20150317_000756	{@st59}ปิดหน้าต่างตั้งค่า{/}
 UI_20150317_000757	{memo X}Lowest-mode {@st41b} {/}
 UI_20150317_000758	{@st41b}View{/}
 UI_20150317_000759	{@st59}Credits{/}
@@ -778,7 +778,7 @@ UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to se
 UI_20150317_000778	My character as camera
 UI_20150317_000779	{@st55_a}Congratulations!
 UI_20150317_000780	{@st42}Switch Camera
-UI_20150317_000781	{@st44}Adventure Journal{/}
+UI_20150317_000781	{@st44}บันทึกการผจญภัย{/}
 UI_20150317_000782	{@st59}Change view settings{/}
 UI_20150317_000783	{@st41} Statistics {/}
 UI_20150317_000784	{@st41}Crafting {/}
@@ -938,13 +938,13 @@ UI_20150317_000937	{@st42}Adjust location{/}
 UI_20150317_000938	{@st59}Adjust location{/}
 UI_20150317_000939	{@st42}Edit Property{/}
 UI_20150317_000940	{@st59}Edit property{/}
-UI_20150317_000941	{@st42}Save{/}
-UI_20150317_000942	{@st59}Save{/}
+UI_20150317_000941	{@st42}บันทึก{/}
+UI_20150317_000942	{@st59}บันทึก{/}
 UI_20150317_000943	{@st44}Edit UI properties{/}
-UI_20150317_000944	{@St59}Character Selection{/}
+UI_20150317_000944	{@St59}เลือกตัวละคร{/}
 UI_20150317_000945	{@St59}Logout{/}
-UI_20150317_000946	{@St59}Settings{/}
-UI_20150317_000947	{@St59}Quit{/}
+UI_20150317_000946	{@St59}ปรับแต่งเกม{/}
+UI_20150317_000947	{@St59}ออกจากเกม{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
 UI_20150317_000949	{@st59}Close Lodge Settings{/}
 UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Team Name{/}
@@ -956,33 +956,33 @@ UI_20150317_000955	{@St43}Barrack Decorating{/}
 UI_20150317_000956	{@St41b}Theme{/}
 UI_20150317_000957	{@St41b}Item Arrangement{/}
 UI_20150317_000958	{@St41b}Name
-UI_20150317_000959	{@St41b}Price
+UI_20150317_000959	{@St41b}ราคา
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}New Character{/}
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
-UI_20150317_000963	{@St41b}Return{/}
+UI_20150317_000962	{@St41b}{s22}เลือก Class ของตัวละคร{/}
+UI_20150317_000963	{@St41b}ย้อนกลับ{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
 UI_20150317_000965	Change Character
-UI_20150317_000966	{@St41}Character{/}
+UI_20150317_000966	{@St41}ตัวละคร{/}
 UI_20150317_000967	{@St59}Rotate to clockwise{/}
 UI_20150317_000968	{@St59}Rotate to counterclockwise{/}
 UI_20150317_000969	{@St43b}Character Rotation{/}
-UI_20150317_000970	{@st43}Character Name{/}
+UI_20150317_000970	{@st43}ชื่อตัวละคร{/}
 UI_20150317_000971	Enter a name for {@st59} {/}
 UI_20150317_000972	{@St43b}Choose Gender{/}
-UI_20150317_000973	{@St59}Female{/}
-UI_20150317_000974	{@St59}Male{/}
-UI_20150317_000975	{@st43b}Choose Hairstyle{/}
-UI_20150317_000976	{@st59}Hairstyle1{/}
-UI_20150317_000977	{@st59}Hairstyle2{/}
-UI_20150317_000978	{@St59}Hairstyle3{/}
-UI_20150317_000979	{@st59}Hairstyle4{/}
-UI_20150317_000980	{@st59}Hairstyle5{/}
-UI_20150317_000981	{@st59}Hairstyle6{/}
-UI_20150317_000982	{@st59}Hairstyle7{/}
-UI_20150317_000983	{@st59}Hairstyle8{/}
-UI_20150317_000984	{@st59}Hairstyle9{/}
-UI_20150317_000985	{@st59}Hairstyle10{/}
+UI_20150317_000973	{@St59}ผู้หญิง{/}
+UI_20150317_000974	{@St59}ผู้ชาย{/}
+UI_20150317_000975	{@st43b}เลือกทรงผม{/}
+UI_20150317_000976	{@st59}ทรงผม 1{/}
+UI_20150317_000977	{@st59}ทรงผม 2{/}
+UI_20150317_000978	{@St59}ทรงผม 3{/}
+UI_20150317_000979	{@st59}ทรงผม 4{/}
+UI_20150317_000980	{@st59}ทรงผม 5{/}
+UI_20150317_000981	{@st59}ทรงผม 6{/}
+UI_20150317_000982	{@st59}ทรงผม 7{/}
+UI_20150317_000983	{@st59}ทรงผม 8{/}
+UI_20150317_000984	{@st59}ทรงผม 9{/}
+UI_20150317_000985	{@st59}ทรงผม 10{/}
 UI_20150317_000986	{@St43b}Class Select{/}
 UI_20150317_000987	{@st59}Swordsman{/}
 UI_20150317_000988	{@st59}Wizard{/}
@@ -991,7 +991,7 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Move to the login screen{/}
+UI_20150317_000994	{@St59}ไปที่หน้า Login{/}
 UI_20150317_000995	{@St41b}ออกจากเกม{/}
 UI_20150317_000996	{@St59}ออกจากเกม Tree of Savior{/}
 UI_20150317_000997	{@st41b}เลือก Channel{/}
@@ -1036,7 +1036,7 @@ UI_20150317_001035	Options
 UI_20150317_001036	Sight Range
 UI_20150317_001037	{S20}{#BBBBBB}Sight Range
 UI_20150317_001038	Sight Range :
-UI_20150317_001039	Character :
+UI_20150317_001039	ตัวละคร :
 UI_20150317_001040	Background Objects :
 UI_20150317_001041	Topography - Grass (%) :
 UI_20150317_001042	Topography-Tree (%) :
@@ -1054,14 +1054,14 @@ UI_20150317_001053	Characters Water Reflection
 UI_20150317_001054	Background Water Reflection
 UI_20150317_001055	{s20}{#BBBBBB}Glow Setup
 UI_20150317_001056	Use Glow
-UI_20150317_001057	{@st41}Attack{/}
-UI_20150317_001058	{@St41}Defense{/}
-UI_20150317_001059	{@st41}Support{/}
-UI_20150317_001060	{@st41}Difficulty{/}
-UI_20150317_001061	{@st41}Hairstyle
-UI_20150317_001062	{@st41}Rotation
-UI_20150317_001063	{@st43}Create Character
-UI_20150317_001064	{@st59}Create the character{/}
+UI_20150317_001057	{@st41}พลังโจมตี{/}
+UI_20150317_001058	{@St41}พลังป้องกัน{/}
+UI_20150317_001059	{@st41}พลังสนับสนุน{/}
+UI_20150317_001060	{@st41}ความยากในการเล่น{/}
+UI_20150317_001061	{@st41}ทรงผม
+UI_20150317_001062	{@st41}หมุนตัวละคร
+UI_20150317_001063	{@st43}สร้างตัวละคร
+UI_20150317_001064	{@st59}สร้างตัวละคร{/}
 UI_20150317_001065	{@st41b}ยกเลิก
 UI_20150317_001066	{@st59}Cancel selecting this character{/}
 UI_20150317_001067	Character Information
@@ -1084,8 +1084,8 @@ UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
 UI_20150317_001086	{S16}Gender and Appearance
-UI_20150317_001087	Male
-UI_20150317_001088	Female
+UI_20150317_001087	ผู้ชาย
+UI_20150317_001088	ผู้หญิง
 UI_20150317_001089	Hair Adjustment
 UI_20150317_001090	Key Adjustment
 UI_20150317_001091	Shoulder Width
@@ -1108,7 +1108,7 @@ UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}
 UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}
 UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the Zone{/}
 UI_20150317_001110	{@St59}Return to the Zone.{/}
-UI_20150317_001111	{@St41b}Return{/}
+UI_20150317_001111	{@St41b}ย้อนกลับ{/}
 UI_20150317_001112	{@St59}Return to My Lodge.{/}
 UI_20150317_001113	{@St43}{s24}LodgeName{/}
 UI_20150317_001114	{@St59}Lodge Name{/}
@@ -1160,7 +1160,7 @@ UI_20150317_001159	{memo X}{@st42b}%s dog {/}
 UI_20150317_001160	{memo X}{@st42b}%s points {/}
 UI_20150317_001161	{memo X}{@st42b}%s dog {/}
 UI_20150317_001162	{S16}{ol}per price
-UI_20150317_001163	Total Price : 1
+UI_20150317_001163	ราคารวม : 1
 UI_20150317_001164	{memo X}{@St41}Help
 UI_20150317_001165	{memo X}{@St41}Photo Description
 UI_20150317_001166	{@St41}Registration
@@ -1175,7 +1175,7 @@ UI_20150317_001174	Region Name
 UI_20150317_001175	{@St41}Skill Names
 UI_20150317_001176	{@St41}Attribute Points
 UI_20150317_001177	{@St41}Class Name
-UI_20150317_001178	Character Name
+UI_20150317_001178	ชื่อตัวละคร
 UI_20150317_001179	{@Sti7}Delete{/}
 UI_20150317_001180	Character Level
 UI_20150317_001181	{@St42}Quest Sharing{/}
@@ -1192,7 +1192,7 @@ UI_20150317_001191	{memo X}Item Priority : {#FFFF00}%s{/}
 UI_20150317_001192	{memo X}Randomly
 UI_20150317_001193	How do I
 UI_20150317_001194	You don't see who it is
-UI_20150317_001195	{@st41b}Adventure Journal Updated
+UI_20150317_001195	{@st41b}อัพเดทบันทึกการผจญภัยแล้ว
 UI_20150317_001196	Menu Objects for Quest
 UI_20150317_001197	Categories of Quest
 UI_20150317_001198	List Objects of Quest
@@ -1226,11 +1226,11 @@ UI_20150317_001225	Repair Durability :
 UI_20150317_001226	Repair Cost : 120 silver
 UI_20150317_001227	Repair Cost : %s silver
 UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}
-UI_20150317_001229	{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001229	{@st42b}ราคาปัจจุบัน {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001231	{@St41b}Receive items{/}
 UI_20150317_001232	{@st42b} Bidding Price {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001233	{@Sti7}Return
+UI_20150317_001233	{@Sti7}ย้อนกลับ
 UI_20150317_001234	{@St59}Head{/}
 UI_20150317_001235	{@St59}Left Bracelet{/}
 UI_20150317_001236	{@St59}Right Bracelet{/}
@@ -1262,15 +1262,15 @@ UI_20150317_001261	{@St53b}Loading your friends list.
 UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} ยกเลิก
 UI_20150317_001264	Please add the buff to sell.
-UI_20150317_001265	Price : %s{/}
+UI_20150317_001265	ราคา : %s{/}
 UI_20150317_001266	Amount Left
 UI_20150317_001267	{@St41}Purchase
 UI_20150317_001268	Amount Left : %s {/}
 UI_20150317_001269	{@St41}Item{/}
 UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Craft
-UI_20150317_001272	{memo X}{@St41b}Price : %s{/}
-UI_20150317_001273	{@Sti5}Price : %s{/}
+UI_20150317_001272	{memo X}{@St41b}ราคา : %s{/}
+UI_20150317_001273	{@Sti5}ราคา : %s{/}
 UI_20150317_001274	{@Sti9} Party Quest (%s){/}
 UI_20150317_001275	{@st41_yellow} Exploration Rate %s% {/}
 UI_20150317_001276	{@st41_yellow} Score %s {/}
@@ -1326,7 +1326,7 @@ UI_20150323_001325	{memo X}DEX
 UI_20150323_001326	{memo X}CRT
 UI_20150323_001327	{memo X}{@st43}Set up Shop{/}
 UI_20150323_001328	{@st41b}Settings
-UI_20150323_001329	Unit Price
+UI_20150323_001329	ราคาต่อหน่วย
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001331	{memo X}{@st43}Gem Roasting{/}
 UI_20150323_001332	{@st59}Close UI{/}
@@ -1366,7 +1366,7 @@ UI_20150323_001365	{memo X}{@st41}Sell
 UI_20150323_001366	{@st41}Alchemy Materials
 UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet{/}
-UI_20150323_001369	{@st41b}Character{/}
+UI_20150323_001369	{@st41b}ตัวละคร{/}
 UI_20150323_001370	{@st59}Grimoire{/}
 UI_20150323_001371	{memo X}{@st41b}Apply Bloom{/}
 UI_20150323_001372	{memo X}{@st41b}Apply Vignette{/}
@@ -1396,7 +1396,7 @@ UI_20150323_001395	{@st59}Set Buy-in Shop{/}
 UI_20150323_001396	Purchase Quantity : %s{/}
 UI_20150323_001397	Search for items to buy
 UI_20150323_001398	Quantity
-UI_20150323_001399	Unit Price
+UI_20150323_001399	ราคาต่อหน่วย
 UI_20150323_001400	{memo X}{@sti5}×%s{/}
 UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
@@ -1442,7 +1442,7 @@ UI_20150401_001441	Hairstyle Color
 UI_20150401_001442	Available Titles
 UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
 UI_20150401_001444	{memo X}{@st41}{#ffffcc}Name
-UI_20150401_001445	{memo X}{@st41}{#ffffcc}Price
+UI_20150401_001445	{memo X}{@st41}{#ffffcc}ราคา
 UI_20150401_001446	{memo X}{@st41}{#ffffcc}Status
 UI_20150401_001447	{memo X}{@st41b}Cancel Preview
 UI_20150401_001448	{memo X}{@st41}{#ffff00}My iCoins : %s{/}
@@ -1534,7 +1534,7 @@ UI_20150428_001533	{memo X}{@st45ty}Hairstyle Color
 UI_20150428_001534	{memo X}{@st45ty}Available Title
 UI_20150428_001535	{@st41_yellow}Helper Skill
 UI_20150428_001536	{memo X}{@st41b}Show other character names{/}
-UI_20150428_001537	{@st43}UI Mode{/}
+UI_20150428_001537	{@st43}การแสดง UI{/}
 UI_20150428_001538	{memo X}{@st41b}Auto{/}
 UI_20150428_001539	{memo X}{@st41b}Joypad{/}
 UI_20150428_001540	{memo X}{@st41b}Keyboard{/}
@@ -1542,8 +1542,8 @@ UI_20150428_001541	{memo X}Joypad
 UI_20150428_001542	{@st59}Joypad Info{/}
 UI_20150428_001543	{memo X}Keyboard
 UI_20150428_001544	{@st59}Keyboard Info{/}
-UI_20150428_001545	{@st43}Graphic Settings{/}
-UI_20150428_001546	{@st43}Performance{/}
+UI_20150428_001545	{@st43}ตั้งค่า Graphic{/}
+UI_20150428_001546	{@st43}ประสิทธิภาพคอมพิวเตอร์{/}
 UI_20150428_001547	{memo X}{@st41b}Low-spec Mode{/}
 UI_20150428_001548	{memo X}{@st41b}Auto Adjustment{/}
 UI_20150428_001549	{memo X}{@st41b}Don't use{/}
@@ -1621,42 +1621,42 @@ UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Close Skills & Attributes{/}
-UI_20150714_001625	{@st43}Skills & Attributes{/}
+UI_20150714_001624	{@st59}ปิดหน้าต่าง Skills และ Attributes{/}
+UI_20150714_001625	{@st43}Skills และ Attributes{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received : %s
 UI_20150714_001628	{memo X}{@st66b}Show EXP acquired{/}
-UI_20150714_001629	{@st66b}Show Character Name{/}
-UI_20150714_001630	{@st66b}Show Team Name only{/}
-UI_20150714_001631	{@st66b}Show Other Players' Names{/}
-UI_20150714_001632	{@st66b}Auto{/}
+UI_20150714_001629	{@st66b}แสดงชื่อตัวละคร{/}
+UI_20150714_001630	{@st66b}แสดงชื่อทีมเท่านั้น{/}
+UI_20150714_001631	{@st66b}แสดงชื่อผู้เล่นอื่น{/}
+UI_20150714_001632	{@st66b}อัตโนมัติ{/}
 UI_20150714_001633	{@st66b}Joypad{/}
 UI_20150714_001634	{@st66b}Keyboard{/}
 UI_20150714_001635	{@st66b}Mouse
-UI_20150714_001636	{@st66b}Full Screen{/}
+UI_20150714_001636	{@st66b}ภาพเต็มจอ{/}
 UI_20150714_001637	{@st66b}Windowed Mode{/}
-UI_20150714_001638	{@st66b}Sound Effects Volume (%s){/}
-UI_20150714_001639	{@st66b}BGM Volume (%s){/}
-UI_20150714_001640	{@st66b}Volume (%s){/}
-UI_20150714_001641	{@st66b}Low Mode{/}
-UI_20150714_001642	{@st66b}Auto Setup{/}
-UI_20150714_001643	{@st66b}Don't Use{/}
+UI_20150714_001638	{@st66b}ระดับเสียง Effects (%s){/}
+UI_20150714_001639	{@st66b}ระดับเสียงเพลง (%s){/}
+UI_20150714_001640	{@st66b}ระดับเสียง (%s){/}
+UI_20150714_001641	{@st66b}โหมด คุณภาพต่ำ{/}
+UI_20150714_001642	{@st66b}ตั้งค่าอัตโนมัติ{/}
+UI_20150714_001643	{@st66b}ไม่ใช้งาน{/}
 UI_20150714_001644	{@st66b}Apply Bloom{/}
 UI_20150714_001645	{@st66b}Apply Vignette{/}
-UI_20150714_001646	{@st66b}Apply FXAA{/}
-UI_20150714_001647	{@st66b}Apply Glow{/}
-UI_20150714_001648	{@st66b}Apply Depth{/}
-UI_20150714_001649	{@st66b}Apply Soft Particle{/}
-UI_20150714_001650	{@st66b}Apply High Texture {/}
-UI_20150714_001651	{@st66b}Vertical Sync On{/}
-UI_20150714_001652	{@st66b}Vertical Sync Off{/}
+UI_20150714_001646	{@st66b}เปิด FXAA{/}
+UI_20150714_001647	{@st66b}เปิด ภาพฟุ้ง{/}
+UI_20150714_001648	{@st66b}เปิด ภาพแนวลึก{/}
+UI_20150714_001649	{@st66b}เปิด Soft Particle{/}
+UI_20150714_001650	{@st66b}เปิด ความละเอียดสูง {/}
+UI_20150714_001651	{@st66b}เปิด Vertical Sync{/}
+UI_20150714_001652	{@st66b}ปิด Vertical Sync{/}
 UI_20150714_001653	{@st66b} %s silver is consumed when storing and taking items from storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
 UI_20150714_001656	{@st66b}Exit Spectator Mode
 UI_20150714_001657	{memo X}Found a game. Do you want to join?
 UI_20150714_001658	{memo X}{@st41}Join
-UI_20150714_001659	{@st41}Decline
+UI_20150714_001659	{@st41}ปฏิเสธ
 UI_20150714_001660	End Game
 UI_20150714_001661	Deaths
 UI_20150714_001662	Damage
@@ -1684,7 +1684,7 @@ UI_20150714_001683	{@st42} obtained %s by %s
 UI_20150714_001684	{@st42} enhanced %s by %s
 UI_20150714_001685	Memo :%s
 UI_20150714_001686	{@st59}Add the material to this item slot.{/}
-UI_20150714_001687	{@st66b}Price : %s{/}
+UI_20150714_001687	{@st66b}ราคา : %s{/}
 UI_20150714_001688	Character Greeting
 UI_20150714_001689	Buy-in Shop
 UI_20150714_001690	×%s
@@ -1712,7 +1712,7 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Party Name & Description{/}
+UI_20150717_001715	{@st42}Party Name และ Description{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
 UI_20150717_001718	{memo X}{@st41b}Recommended Character List{/}
@@ -1765,7 +1765,7 @@ UI_20150730_001764	{memo X}{@st56}My Rank
 UI_20150730_001765	{memo X}{@st56}Kill Rank
 UI_20150730_001766	{memo X}{@st56}Damage Rank
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
-UI_20150803_001768	{@st66b}Joypad Vibration{/}
+UI_20150803_001768	{@st66b}Joypad สั่น{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
 UI_20150804_001771	Maximum Sockets : %s
@@ -1785,7 +1785,7 @@ UI_20150918_001784	{#000000}Dungeon Name{/}
 UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
-UI_20150918_001788	{img silver 20 20} Price
+UI_20150918_001788	{img silver 20 20} ราคา
 UI_20150918_001789	Nearby Party Info
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
@@ -1814,9 +1814,9 @@ UI_20151001_001813	Action
 UI_20151001_001814	Restore defaults
 UI_20151016_001815	{@st59}The selected item will be locked{/}
 UI_20151016_001816	{@st59}You can change the theme of your lodge and preview it.
-UI_20151016_001817	%s Characters{/}
+UI_20151016_001817	%s ตัวละครs{/}
 UI_20151016_001818	{@st42b}Preview
-UI_20151016_001819	{@st42b}Return
+UI_20151016_001819	{@st42b}ย้อนกลับ
 UI_20151016_001820	{@st42b}Purchase
 UI_20151016_001821	{@st42b}Apply
 UI_20151016_001822	Guild Name and Description
@@ -1826,7 +1826,7 @@ UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
 UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
 UI_20151022_001828	{@st66b18}Current Position : %s
-UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151022_001829	{@st66b}แสดง Effects ของตัวละครอื่น
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin
