@@ -1463,9 +1463,9 @@ ETC_20150317_001462	User
 ETC_20150317_001463	Time Left
 ETC_20150317_001464	Name
 ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Your name cannot exceed 16 characters {nl} including blank spaces.
-ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}การเชื่อมต่อขาดหาย{nl}
+ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Disconnected from the server.{nl}
 ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Move to the login mode after 3 seconds.
-ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}ไม่สามารถเชื่อมต่อ Server ได้
+ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Cannot connect to server.
 ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Your ID exceeds the maximum length allowed.
 ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Your username or password is incorrect. {nl} Please note that passwords are case sensitive.
 ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Server shutdown is not completed, or you are already logged in.{nl} Server shutdown may take up to 3 minutes.
@@ -1480,7 +1480,7 @@ ETC_20150317_001479	{memo X}{S18}{ol}{#ffffcc} Disconnected from the server due 
 ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
-ETC_20150317_001483	Server ปิด
+ETC_20150317_001483	This server is closed
 ETC_20150317_001484	This item cannot be equipped
 ETC_20150317_001485	[{Word}] is not allowed for use.
 ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
@@ -1618,7 +1618,7 @@ ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
 ETC_20150317_001619	Character Name
 ETC_20150317_001620	You do not have enough materials.
-ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}กำลังเชื่อมต่อ Server...
+ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
 ETC_20150317_001623	{@st46} Congratulations! Your character level has increased.
 ETC_20150317_001624	{memo X}{Auto_1} Series
@@ -12240,7 +12240,7 @@ ETC_20150714_012241	Incorrect combination.
 ETC_20150714_012242	Loading...
 ETC_20150714_012243	Failed to read it. Please try again later.
 ETC_20150714_012244	Your character's level is not high enough.
-ETC_20150714_012245	การเชื่อมต่อขาดหาย กำลังเชื่อมต่อใหม่...
+ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occurred so it restored automatically.
 ETC_20150714_012247	Attached Items
 ETC_20150714_012248	Do you want to give the item(s) to {PC}?
@@ -13518,7 +13518,7 @@ ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To cre
 ETC_20150717_013520	Please enter your account password.
 ETC_20150717_013521	Entering the world...
 ETC_20150717_013522	Do you want to learn this attribute?
-ETC_20150717_013523	กำลังเชื่อมต่อ Server...
+ETC_20150717_013523	Connecting to the server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel, due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
@@ -14630,13 +14630,13 @@ ETC_20150918_014631	You have failed in defeating Carapace!
 ETC_20150918_014632	You have failed to protect the Statue of Goddess Vakarine!
 ETC_20150918_014633	There aren't enough keepsakes of the spirits!
 ETC_20150918_014634	Madakia has been absorbed!
-ETC_20150918_014635	ติดตั้งระเบิดเรียบร้อยแล้ว!
+ETC_20150918_014635	You've installed the bomb!
 ETC_20150918_014636	2. Defeat the monsters that are rushing in!
 ETC_20150918_014637	You have succeeded in Palanx trainings that prepare for the actual battles!
 ETC_20150918_014638	You have succeeded in persuasion!{nl}Bring it to the Apsauga Altar
 ETC_20150918_014639	You have obtained the Stumpy Tree's sap!
 ETC_20150918_014640	You used the absorb scroll
-ETC_20150918_014641	ไม่สามารถอัญเชิญมอนสเตอร์ออกมาได้ในพื้นที่นี้
+ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	Due to an error, the client will be closed.{nl}We apologize for the inconvenience.{nl}When you press [Yes] at the bottom of the screen, the details of the error will be sent to the developer.{nl}{nl}??The information that will be sent : Error Code, CPU, VGA, Memory Driver Information
 ETC_20150918_014644	[Rogue Master]{nl}    Gema
