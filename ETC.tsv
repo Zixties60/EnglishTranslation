@@ -1804,8 +1804,8 @@ ETC_20150317_001803	You have successfully adopted a Companion.
 ETC_20150317_001804	You can't include spaces in the name.
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your Companion to feed it.
-ETC_20150317_001807	Physical Attack
-ETC_20150317_001808	Physical Defense
+ETC_20150317_001807	พลังโจมตีทางกายภาพ
+ETC_20150317_001808	พลังป้องกันทางกายภาพ
 ETC_20150317_001809	Increased defense when mounted
 ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
@@ -2720,21 +2720,21 @@ ETC_20150317_002719	Explosive Arrow
 ETC_20150317_002720	[Craftable]
 ETC_20150317_002721	Stamina
 ETC_20150317_002722	Attack
-ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
+ETC_20150317_002723	ความเร็วในการโจมตี
+ETC_20150317_002724	อัตรา Critical
 ETC_20150317_002725	Durability
 ETC_20150317_002726	{memo X}Splash
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
+ETC_20150317_002727	ความแม่นยำ
+ETC_20150317_002728	ความด้านทาน Critical
 ETC_20150317_002729	{memo X}Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
 ETC_20150317_002732	Skill Attack
-ETC_20150317_002733	Magic Resistance
+ETC_20150317_002733	ความต้านทานเวทย์
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	พลังโจมตืเวทย์มนตร์
+ETC_20150317_002737	พลังป้องกันเวทย์มนตร์
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
 ETC_20150317_002740	Maximum Socket(s)
@@ -2751,26 +2751,26 @@ ETC_20150317_002750	Increase Area
 ETC_20150317_002751	Increase area of slash
 ETC_20150317_002752	Attack Range
 ETC_20150317_002753	Attack Angle
-ETC_20150317_002754	Block Rate
+ETC_20150317_002754	อัตราการ Block
 ETC_20150317_002755	Repeated Hit
 ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Not Available
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
+ETC_20150317_002760	พลังโจมตี Critical
+ETC_20150317_002761	พลังป้องกัน Critical
 ETC_20150317_002762	Tradable
 ETC_20150317_002763	Untradeable
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP Recovery
+ETC_20150317_002765	การฟื้นฟู SP
 ETC_20150317_002766	Cannot be sold
 ETC_20150317_002767	Fire Attack
 ETC_20150317_002768	Ice Attack
 ETC_20150317_002769	Poison Attack
 ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
-ETC_20150317_002772	Movement Speed
-ETC_20150317_002773	HP Recovery
+ETC_20150317_002772	ความเร็วการเคลื่อนที่
+ETC_20150317_002773	การฟื้นฟู HP
 ETC_20150317_002774	Attack on Plant Type Targets
 ETC_20150317_002775	Attack on Beast Type Targets
 ETC_20150317_002776	Attack on Demon Type Targets
@@ -2793,7 +2793,7 @@ ETC_20150317_002792	Attack on Small Type Targets
 ETC_20150317_002793	Attack on Medium Type Targets
 ETC_20150317_002794	Attack on Large Type Targets
 ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
+ETC_20150317_002796	โจมตีทะลุ Block
 ETC_20150317_002797	Attack on Cloth Armor Type
 ETC_20150317_002798	Attack on Leather Armor Type
 ETC_20150317_002799	Attack on Plate Armor Type
@@ -2810,21 +2810,21 @@ ETC_20150317_002809	Magic damage when mounted
 ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
 ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
-ETC_20150317_002814	Very Easy
-ETC_20150317_002815	Easy
-ETC_20150317_002816	Normal
-ETC_20150317_002817	Hard
-ETC_20150317_002818	Very Hard
+ETC_20150317_002813	แบกน้ำหนักได้สูงสุด
+ETC_20150317_002814	ง่ายมาก
+ETC_20150317_002815	ง่าย
+ETC_20150317_002816	ปานกลาง
+ETC_20150317_002817	ยาก
+ETC_20150317_002818	ยากมาก
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002820	พื้นที่: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
-ETC_20150317_002822	{@st41}Reward(s) received:
+ETC_20150317_002822	{@st41}ได้รับรางวัล:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	Space Bar
 ETC_20150317_002825	 to start a conversation
 ETC_20150317_002826	Give up quest
-ETC_20150317_002827	Abandon
+ETC_20150317_002827	ละทิ้ง
 ETC_20150317_002828	Warp to Completion Point
 ETC_20150317_002829	Objective: 
 ETC_20150317_002830	Warrior Type
@@ -2839,10 +2839,10 @@ ETC_20150317_002838	Beast Type
 ETC_20150317_002839	Mutant Type
 ETC_20150317_002840	Object
 ETC_20150317_002841	Insect Type
-ETC_20150317_002842	Cloth
-ETC_20150317_002843	Leather
-ETC_20150317_002844	Metal
-ETC_20150317_002845	Chain
+ETC_20150317_002842	ผ้า
+ETC_20150317_002843	หนัง
+ETC_20150317_002844	โลหะ
+ETC_20150317_002845	โซ่
 ETC_20150317_002846	Fluid
 ETC_20150317_002847	{memo X}This mercenary already belongs to somebody else.
 ETC_20150317_002848	{memo X}The mercenary's level is higher than the PC's level.
@@ -2850,8 +2850,8 @@ ETC_20150317_002849	{memo X}The mercenary has been hired.
 ETC_20150317_002850	{memo X}The mercenary was let go.
 ETC_20150317_002851	{memo X}This mercenary is already hired.
 ETC_20150317_002852	{memo X}The theme of your Barracks has been changed.
-ETC_20150317_002853	You have successfully changed your team name.
-ETC_20150317_002854	You have failed to change your team name.
+ETC_20150317_002853	เปลี่ยนแปลงชื่อ Team สำเร็จแล้ว
+ETC_20150317_002854	เปลี่ยนแปลงชื่อ Team ไม่สำเร็จ
 ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
 ETC_20150317_002856	This team name already exists.
 ETC_20150317_002857	Collection Effect
@@ -2950,10 +2950,10 @@ ETC_20150317_002949	Evaluation
 ETC_20150317_002950	Attack Attribute
 ETC_20150317_002951	Enable attack type
 ETC_20150317_002952	Moving Type
-ETC_20150317_002953	Small
-ETC_20150317_002954	Medium
-ETC_20150317_002955	Large
-ETC_20150317_002956	Extra Large
+ETC_20150317_002953	เล็ก
+ETC_20150317_002954	กลาง
+ETC_20150317_002955	ใหญ่
+ETC_20150317_002956	ใหญ่พิเศษ
 ETC_20150317_002957	Ghost
 ETC_20150317_002958	No Attribute
 ETC_20150317_002959	Fire
@@ -2974,12 +2974,12 @@ ETC_20150317_002973	Fixation
 ETC_20150317_002974	Ground-based
 ETC_20150317_002975	Airborne Type
 ETC_20150317_002976	Elite
-ETC_20150317_002977	Last login: {Year} year(s) ago
-ETC_20150317_002978	Last login: {Month} month(s) ago
-ETC_20150317_002979	Last login: {Day} day(s) ago
-ETC_20150317_002980	Last login: {Hour} hour(s) ago
-ETC_20150317_002981	Last login: {Min} minute(s) ago
-ETC_20150317_002982	Last login: just now
+ETC_20150317_002977	Login ล่าสุด: {Year} ปีก่อน
+ETC_20150317_002978	Login ล่าสุด: {Month} เดือนก่อน
+ETC_20150317_002979	Login ล่าสุด: {Day} วันก่อน
+ETC_20150317_002980	Login ล่าสุด: {Hour} ชั่วโมงที่ผ่านมา
+ETC_20150317_002981	Login ล่าสุด: {Min} นาทีที่ผ่านมา
+ETC_20150317_002982	Login ล่าสุด: ตอนนี้
 ETC_20150317_002983	Temporary space
 ETC_20150317_002984	{Auto_1} HP was recovered
 ETC_20150317_002985	{Auto_1} SP was recovered
@@ -3006,7 +3006,7 @@ ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	{memo X}Did not find anything.
 ETC_20150317_003007	{memo X}Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
 ETC_20150317_003008	{memo X}You do not have enough tombstone pieces.
-ETC_20150317_003009	Quest completed!
+ETC_20150317_003009	Quest สำเร็จแล้ว!
 ETC_20150317_003010	{memo X}Tried to open the box but couldn't
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
@@ -3048,7 +3048,7 @@ ETC_20150317_003047	Collecting Bombs
 ETC_20150317_003048	Obtained Canyon Bomb (disposable)!
 ETC_20150317_003049	You already have that item
 ETC_20150317_003050	Obtained Canyon Bomb!
-ETC_20150317_003051	Box is locked!
+ETC_20150317_003051	กล่องล็อกอยู่!
 ETC_20150317_003052	's
 ETC_20150317_003053	Silver
 ETC_20150317_003054	Trying to drop item without monster
@@ -4493,8 +4493,7 @@ ETC_20150317_004492	Dandel-3: Dandel v3: 69 / Dandel-3: Dandel v3: 69 / Sauga_s-
 ETC_20150317_004493	Dandel-3: Ghost Guardian: 69 / Dandel-3: Ghost Guardian: 69 / Sauga_s-3: Ghost Guardian: 69 / Zinute-3: Ghost Guardian: 69
 ETC_20150317_004494	Hope
 ETC_20150317_004495	Avarice
-ETC_20150317_004496	Right
-ETC_20150317_004497	Wrong
+ETC_20150317_004496	RightTC_20150317_004497	Wrong
 ETC_20150317_004498	{memo X}Call the brave Gedulah of jakariel by reactivating of altar of gedulah.
 ETC_20150317_004499	Wisdom
 ETC_20150317_004500	Gold
@@ -14593,8 +14592,8 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Secondary Physical Attack
-ETC_20150918_014599	Seconday Magical Attack
+ETC_20150918_014598	พลังโจมตีทางกายภาพ อาวุธรอง
+ETC_20150918_014599	พลังโจมตืเวทย์มนตร์ อาวุธรอง
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
 ETC_20150918_014602	Friendly Duel Request
@@ -16488,3 +16487,4 @@ ETC_20151022_016488	Defea the Cockat nest!
 ETC_20151022_016489	Defeat Moyabruka and Menticen!
 ETC_20151022_016490	Survie for 2 minutes!
 ETC_20151023_016491	{Price}NXPConsumedToHire{Minute}Continue?
+?
