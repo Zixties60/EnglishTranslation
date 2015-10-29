@@ -17,7 +17,7 @@ UI_20150317_000016	{@st43}Auction House{/}
 UI_20150317_000017	{@st59}Close the Auction House{/}
 UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Close Quest Information{/}
+UI_20150317_000020	{@st59}ปิดหน้าต่างรายละเอียด Quest{/}
 UI_20150317_000021	Availest
 UI_20150317_000022	{@st41b}เวลาที่เหลือ
 UI_20150317_000023	3 ชั่วโมง 16 นาที
@@ -27,9 +27,9 @@ UI_20150317_000026	{@st41b}ราคาปัจจุบัน
 UI_20150317_000027	{@st41b}Bidding Price
 UI_20150317_000028	{@st41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}
 UI_20150317_000029	{@st41b}Bid{/}
-UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000030	{@st43b}ซื้อเลย!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Permission Settings{/}
-UI_20150317_000032	{@st45}Name: %s{/}
+UI_20150317_000032	{@st45}ชื่อ: %s{/}
 UI_20150317_000033	{@st45}คลังสมบัติของปาร์ตี้{/}
 UI_20150317_000034	{@st49}None
 UI_20150317_000035	{@st49}ร้านค้า
@@ -73,8 +73,8 @@ UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}ตั้งค่าเกม{/}
-UI_20150317_000076	{@st64}Use your arrow keys to select a cell!
-UI_20150317_000077	{@st43}Advancement Information {/}
+UI_20150317_000076	{@st64}ใช้ปุ่มลูกศรเพื่อเลือก Cell!
+UI_20150317_000077	{@st43}รายละเอียดการเปลี่ยน Class{/}
 UI_20150317_000078	{@st43}เลือก Class
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Circle {/}
@@ -84,14 +84,14 @@ UI_20150317_000083	{memo X}{@st41b}โจมตี {@sti7}%s{/}
 UI_20150317_000084	{memo X}{@st41b}สนับสนุน {@sti7}%s{/}
 UI_20150317_000085	{memo X}{@st41b}ความยาก{@sti7}%s{/}
 UI_20150317_000086	{@st59}ปิดหน้าต่างรายละเอียด Class{/}
-UI_20150317_000087	Advancement Alarm
+UI_20150317_000087	แจ้งเตื่อนการเปลี่ยน Class
 UI_20150317_000088	{@st43} เปลี่ยน Class
 UI_20150317_000089	{@sti7}{s14} ตัวละคร {/}
 UI_20150317_000090	{@sti8}{s14} Class {/}
 UI_20150317_000091	{@st44}Chat{/}
-UI_20150317_000092	To. WWWWWWWW and 1 other
+UI_20150317_000092	ส่งถึง WWWWWWWW และอีก 1 คน
 UI_20150317_000093	{memo X}ทั่วไป: /s <ข้อความ> {nl} ตะโกน: /y <ข้อความ> {nl} ปาร์ตี้: /p <ข้อความ>{nl} กระซิบ: /w <ชื่อทีม> <ข้อความ>
-UI_20150317_000094	{@st41}All Chat{/}
+UI_20150317_000094	{@st41}Chat ทั้งหมด{/}
 UI_20150317_000095	{@59}ออก{/}
 UI_20150317_000096	{@59}เชิญ{/}
 UI_20150317_000097	{@st59}ทั้งหมด{/}
@@ -108,23 +108,23 @@ UI_20150317_000107	{@st41b}บันทึก {/}
 UI_20150317_000108	{@st59}บันทึกการเปลี่ยนแปลง{/}
 UI_20150317_000109	{@st41b}ยกเลิก {/}
 UI_20150317_000110	{@st59}ยกเลิกการเปลี่ยนแปลง{/}
-UI_20150317_000111	{@st42}Chat Settings
+UI_20150317_000111	{@st42}ตั้งค่า Chat
 UI_20150317_000112	{@st42}ความโปร่งใส
-UI_20150317_000113	Show chat balloon
-UI_20150317_000114	Show shouts on top
+UI_20150317_000113	แสดง chat balloon
+UI_20150317_000114	แสดงข้อความ ตะโกน อยู่บนสุด
 UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{memo X}{@st42b}ไอเทม{/}
+UI_20150317_000116	{memo X}{@st42b}Item{/}
 UI_20150317_000117	{memo X}{@st42b}มอนสเตอร์{/}
 UI_20150317_000118	{memo X}{@st42b}Move map{/}
 UI_20150317_000119	{memo X}{@st42b}Combat Order{/}
 UI_20150317_000120	{@st41b}ปิด{/}
-UI_20150317_000121	{s16}{b}สร้างไอเทมโดยการคลิกที่ปุ่มสร้างหรือคลิกสองครั้ง
+UI_20150317_000121	{s16}{b}สร้าง Item โดยการคลิกที่ปุ่มสร้างหรือคลิกสองครั้ง
 UI_20150317_000122	{memo X}{s16}{b}ea
 UI_20150317_000123	{memo X}{s16}{b}Lv.
 UI_20150317_000124	{@st41b}ค้นหา{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
+UI_20150317_000125	{s16}{b}อัญเชิญ monster โดยคลิกปุ่มสร้าง หรือคลิกสองครั้ง
 UI_20150317_000126	{memo X}{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
+UI_20150317_000127	{s16}{b}เลือกพื้นที่ที่ต้องการ
 UI_20150317_000128	{s18}{b}ดู Minimap{/}
 UI_20150317_000129	{@st41b}Tool List{/}
 UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
@@ -135,8 +135,8 @@ UI_20150317_000134	{@st49}สี Spray{/}
 UI_20150317_000135	{@st49}สี{/}
 UI_20150317_000136	{@st49}เหลือ{/}
 UI_20150317_000137	{@st49}แปรง{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}วาด{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}บันทึก{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
 UI_20150317_000141	{@st49}ปิด{/}
 UI_20150317_000142	{@st43} Companion Adoption
@@ -261,40 +261,40 @@ UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
 UI_20150317_000261	What about Siauliai
 UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close Inventory{/}
+UI_20150317_000264	{@st43}กระเป๋า{/}
+UI_20150317_000265	{@st59}ปิดกน้าต่างกระเป๋า{/}
 UI_20150317_000266	{memo X}{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
 UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
 UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top{/}
-UI_20150317_000272	{@st59}Gloves{/}
-UI_20150317_000273	{@st59}Pants{/}
-UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left Hand{/}
-UI_20150317_000276	{@st59}Right Hand{/}
-UI_20150317_000277	{@st59}Bracelet 1{/}
-UI_20150317_000278	{@st59}Bracelet 2{/}
-UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search{/}
-UI_20150317_000281	Weight
+UI_20150317_000271	{@st59}ส่วนบน{/}
+UI_20150317_000272	{@st59}ถุงมือ{/}
+UI_20150317_000273	{@st59}กางเกง{/}
+UI_20150317_000274	{@st59}รองเท้า{/}
+UI_20150317_000275	{@st59}มือซ้าย{/}
+UI_20150317_000276	{@st59}มือขวา{/}
+UI_20150317_000277	{@st59}กำไล 1{/}
+UI_20150317_000278	{@st59}กำไล 2{/}
+UI_20150317_000279	{@st59}สายรัดข้อมือ{/}
+UI_20150317_000280	{@st59}ค้นหา{/}
+UI_20150317_000281	น้ำหนัก
 UI_20150317_000282	{memo X}{@st43}Equipment Buff{/}
-UI_20150317_000283	{@st59}Close the Item Repair UI{/}
+UI_20150317_000283	{@st59}ปิดหน้าต่างซ่อมแซม Item{/}
 UI_20150317_000284	{memo X}{@st42}Available for Buff
-UI_20150317_000285	{memo X}{@st42}Consume{/}
+UI_20150317_000285	{memo X}{@st42}ชุดแฟชั่น{/}
 UI_20150317_000286	{memo X}{@st42}Run
 UI_20150317_000287	{memo X}{@st42}Target Item{/}
-UI_20150317_000288	{@st59}Ring 1{/}
+UI_20150317_000288	{@st59}แหวน 1{/}
 UI_20150317_000289	{@st43}Item Crafting{/}
 UI_20150317_000290	{@st42b}Show only craftable items{/}
 UI_20150317_000291	{@st59}Close Item Crafting {/}
-UI_20150317_000292	{@st43}{s22}Split Item
-UI_20150317_000293	{@st59}Enter a quantity{/}
-UI_20150317_000294	Monster HP Bar
+UI_20150317_000292	{@st43}{s22}แยก Item
+UI_20150317_000293	{@st59}ใส่จำนวนที่ต้องการ{/}
+UI_20150317_000294	แถบ HP ของ Monster
 UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
-UI_20150317_000297	Kills
+UI_20150317_000297	จำนวนที่ฆ่า
 UI_20150317_000298	99 นาที 99 วินาที
 UI_20150317_000299	38000 คะแนน
 UI_20150317_000300	Enhanced Speed Potion
@@ -328,7 +328,7 @@ UI_20150317_000327	พลังป้องกันเวทย์
 UI_20150317_000328	Critical Rate
 UI_20150317_000329	{@st43}Socket{/}
 UI_20150317_000330	{@st59}Close the Socket Management{/}
-UI_20150317_000331	กรุณาใส่ไอเทม
+UI_20150317_000331	กรุณาใส่ Item ที่ต้องการ
 UI_20150317_000332	Potential
 UI_20150317_000333	{memo X}Additional socket cost : {#ff9933}%s{/}{nl}Gem extraction cost : {#ff9933}%s{/}
 UI_20150317_000334	{@st41b}Add Socket
@@ -420,51 +420,51 @@ UI_20150317_000419	Number of Fragments
 UI_20150317_000420	{memo X}Parts 1
 UI_20150317_000421	{memo X}Parts 2
 UI_20150317_000422	{memo X}Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
+UI_20150317_000423	ยินดีด้วย! Level ของคุณเพิ่มขึ้นแล้ว.
 UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}         Use a basic attack{/}
-UI_20150317_000429	{@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
+UI_20150317_000426	วิธีการเล่น
+UI_20150317_000427	{@st42b}          บังคับตัวละครด้วยปุ่ม{/}
+UI_20150317_000428	{@st42b}         โจมตีปกติ{/}
+UI_20150317_000429	{@st42b}                กระโดด{/}
+UI_20150317_000430	{@st42b}     ใช้สองปุ่มร่วมกันเพื่อนเคลื่อนที่แนวเฉียง{/}
 UI_20150317_000431	Fog Map Tool
 UI_20150317_000432	Tool for killing monsters
 UI_20150317_000433	Tool for making minimap
 UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
+UI_20150317_000435	{@st43}ตั้งค่า GM{/}
+UI_20150317_000436	{@st59}ปิดหน้าต่างรายละเอียดปาร์ตี้{/}
 UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
-UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
+UI_20150317_000438	{@st43}รานละเอียดปาร์ตี้{/}
+UI_20150317_000439	{@st41b}สมาชิก{/}
 UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{memo X}{@st41}Members{/}
-UI_20150317_000443	{memo X}{@st41}Conditions for joining party
-UI_20150317_000444	{memo X}{@st41b}Public
-UI_20150317_000445	{memo X}{@st41b}Private
-UI_20150317_000446	{memo X}Required Level ~
-UI_20150317_000447	{memo X}{@st41}Item Priority
-UI_20150317_000448	{memo X}{@st41b}Individual Loot
-UI_20150317_000449	{memo X}{@st41b}Round Robin
-UI_20150317_000450	{memo X}{@st41b}Random
-UI_20150317_000451	{memo X}{@st41}EXP Priority
-UI_20150317_000452	{memo X}{@st41b}Individual EXP
-UI_20150317_000453	{memo X}{@st41b}Equal EXP
-UI_20150317_000454	{memo X}{@st41b}By Level
-UI_20150317_000455	{memo X}{@st41}Quest Sharing
-UI_20150317_000456	{memo X}{@st41b}Enabled
-UI_20150317_000457	{memo X}{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Priority
-UI_20150317_000465	Item Priority
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
+UI_20150317_000441	{@st41b}ตั้งค่า{/}
+UI_20150317_000442	{memo X}{@st41}สมาชิก{/}
+UI_20150317_000443	{memo X}{@st41}เงื่อนไขการเข้าร่วมปาร์ตี้
+UI_20150317_000444	{memo X}{@st41b}สาธารณะ
+UI_20150317_000445	{memo X}{@st41b}ลับ
+UI_20150317_000446	{memo X}ต้องการ Level ~
+UI_20150317_000447	{memo X}{@st41}การแบ่งปัน Item
+UI_20150317_000448	{memo X}{@st41b}ต่างคนต่างเก็บ
+UI_20150317_000449	{memo X}{@st41b}สลับกัน
+UI_20150317_000450	{memo X}{@st41b}สุ่ม
+UI_20150317_000451	{memo X}{@st41}การแบ่งปัน EXP
+UI_20150317_000452	{memo X}{@st41b}ต่างคนต่างเก็บ EXP
+UI_20150317_000453	{memo X}{@st41b}ได้ EXP เท่ากัน
+UI_20150317_000454	{memo X}{@st41b}ได้ตาม Level
+UI_20150317_000455	{memo X}{@st41}การแบ่งปัน Quest
+UI_20150317_000456	{memo X}{@st41b}เปิด
+UI_20150317_000457	{memo X}{@st41b}ปิด
+UI_20150317_000458	{@st41b}สร้างปาร์ตี้
+UI_20150317_000459	{@st43}รายการปาร์ตี้สาธาณะ {/}
+UI_20150317_000460	{@st59b}รายการปาร์ตี้สาธาณะ{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
+UI_20150317_000461	{@st59}ปิดหน้าต่างรายการปาร์ตี้{/}
+UI_20150317_000462	ใช้การค้นหา
+UI_20150317_000463	การแบ่งปัน Quest
+UI_20150317_000464	การแบ่งปัน EXP
+UI_20150317_000465	การแบ่งปัน Item
+UI_20150317_000466	{@st43}เชิญ
+UI_20150317_000467	{@st41b}เชิญ{/}
 UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Logout PC rules{/}
 UI_20150317_000469	{ol}Conditions for applying rules
 UI_20150317_000470	{ol}Action for applying rules
@@ -495,7 +495,7 @@ UI_20150317_000494	{@st59}Close Poison Pot UI{/}
 UI_20150317_000495	{@st59}Need to write{/}
 UI_20150317_000496	{memo X}The amount of poison: %s
 UI_20150317_000497	{memo X}Items that can be used to Craft poison
-UI_20150317_000498	{memo X}Select All
+UI_20150317_000498	{memo X}เลือกทั้งหมด
 UI_20150317_000499	Click again to unselect all
 UI_20150317_000500	{memo X}Crafting
 UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle
@@ -585,8 +585,8 @@ UI_20150317_000584	{@st41}Close{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
 UI_20150317_000586	Equipped Equipment
 UI_20150317_000587	Carried Equipment
-UI_20150317_000588	{Gr gradation1}Select All{/}
-UI_20150317_000589	Select All
+UI_20150317_000588	{Gr gradation1}เลือกทั้งหมด{/}
+UI_20150317_000589	เลือกทั้งหมด
 UI_20150317_000590	{Gr gradation1}Repair{/}
 UI_20150317_000591	{@st43}Repair{/}
 UI_20150317_000592	{memo X}List of items for repair
@@ -1433,25 +1433,25 @@ UI_20150401_001432	{@st59}Close GM UI list{/}
 UI_20150401_001433	{memo X}{@st41}Party Description :
 UI_20150401_001434	{s20}Amount of Poison {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materials for Poison
-UI_20150401_001436	{@st41b}Select All{/}
+UI_20150401_001436	{@st41b}เลือกทั้งหมด{/}
 UI_20150401_001437	{@st59}Unselect all by clicking again{/}
 UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
-UI_20150401_001440	{@st41b}Achievements{/}
+UI_20150401_001440	{@st41b}ความสำเร็จ{/}
 UI_20150401_001441	Hairstyle Color
 UI_20150401_001442	Available Titles
 UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
-UI_20150401_001444	{memo X}{@st41}{#ffffcc}Name
+UI_20150401_001444	{memo X}{@st41}{#ffffcc}ชื่อ
 UI_20150401_001445	{memo X}{@st41}{#ffffcc}ราคา
-UI_20150401_001446	{memo X}{@st41}{#ffffcc}Status
+UI_20150401_001446	{memo X}{@st41}{#ffffcc}สถานะ
 UI_20150401_001447	{memo X}{@st41b}Cancel Preview
 UI_20150401_001448	{memo X}{@st41}{#ffff00}My iCoins : %s{/}
-UI_20150401_001449	Equipped
-UI_20150401_001450	{memo X}Description : {#FFFF00}%s{/}
+UI_20150401_001449	สวมใส่แล้ว
+UI_20150401_001450	{memo X}คำอธิบาย : {#FFFF00}%s{/}
 UI_20150401_001451	{memo X}Average Level : {#FFFF00}%s{/}
-UI_20150401_001452	{memo X}Conditions
-UI_20150401_001453	Title %s
-UI_20150401_001454	Reward %s
+UI_20150401_001452	{memo X}เงื่อนไข
+UI_20150401_001453	หัวข้อ %s
+UI_20150401_001454	รางวัล %s
 UI_20150401_001455	{memo X}{@st42}Amount
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
@@ -1496,7 +1496,7 @@ UI_20150414_001495	{memo X}{@st41}Party Description
 UI_20150414_001496	{memo X}{@st41b}Enter{/}
 UI_20150414_001497	Roasting Level %s
 UI_20150428_001498	{@st43}Buy-in Shop{/}
-UI_20150428_001499	{@st41b}Close
+UI_20150428_001499	{@st41b}ปิด
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify us about bugs and issues{/}
 UI_20150428_001502	When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much help in resolving the bug. Do you want to send it?
@@ -1505,7 +1505,7 @@ UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will 
 UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
 UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
-UI_20150428_001508	Party found!
+UI_20150428_001508	พบปาร์ตี้!
 UI_20150428_001509	Joystick Rest Quickslot
 UI_20150428_001510	{@st41b}Rest Mode
 UI_20150428_001511	Joypad Tutorial
@@ -1523,10 +1523,10 @@ UI_20150428_001522	{memo X}{@st41}Play Style{/}
 UI_20150428_001523	Questing
 UI_20150428_001524	Hunting
 UI_20150428_001525	Events
-UI_20150428_001526	{memo X}{@st41}Level Difference{/}
+UI_20150428_001526	{memo X}{@st41}ความต่าง Level{/}
 UI_20150428_001527	{memo X}Not related
 UI_20150428_001528	{memo X}{@st41}Desired Class Type{/}
-UI_20150428_001529	{@st41b}Leave Party
+UI_20150428_001529	{@st41b}ออกจากปาร์ตี้
 UI_20150428_001530	{memo X}{@st59}Search by party description{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
 UI_20150428_001532	{@st59}Proceed crafting{/}
@@ -1534,7 +1534,7 @@ UI_20150428_001533	{memo X}{@st45ty}Hairstyle Color
 UI_20150428_001534	{memo X}{@st45ty}Available Title
 UI_20150428_001535	{@st41_yellow}Helper Skill
 UI_20150428_001536	{memo X}{@st41b}Show other character names{/}
-UI_20150428_001537	{@st43}การแสดง UI{/}
+UI_20150428_001537	{@st43}รูปแบบการแสดง UI{/}
 UI_20150428_001538	{memo X}{@st41b}Auto{/}
 UI_20150428_001539	{memo X}{@st41b}Joypad{/}
 UI_20150428_001540	{memo X}{@st41b}Keyboard{/}
@@ -1543,12 +1543,12 @@ UI_20150428_001542	{@st59}Joypad Info{/}
 UI_20150428_001543	{memo X}Keyboard
 UI_20150428_001544	{@st59}Keyboard Info{/}
 UI_20150428_001545	{@st43}ตั้งค่า Graphic{/}
-UI_20150428_001546	{@st43}ประสิทธิภาพคอมพิวเตอร์{/}
+UI_20150428_001546	{@st43}ประสิทธิภาพ{/}
 UI_20150428_001547	{memo X}{@st41b}Low-spec Mode{/}
 UI_20150428_001548	{memo X}{@st41b}Auto Adjustment{/}
 UI_20150428_001549	{memo X}{@st41b}Don't use{/}
 UI_20150428_001550	Game FAQ
-UI_20150428_001551	Players : (%s/%s)
+UI_20150428_001551	จำนวนผู้เล่น : (%s/%s)
 UI_20150428_001552	At least Lv. 100 : (%s/%s)
 UI_20150511_001553	{memo X}{@st41}Link Party Invite
 UI_20150714_001554	{@st66b}Items Sold : ×%s / Items Unsold : ×%s{/}
@@ -1567,7 +1567,7 @@ UI_20150714_001566	{memo X}{@st42}Current Location : %s{/}
 UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
-UI_20150714_001570	{@st66}Select All
+UI_20150714_001570	{@st66}เลือกทั้งหมด
 UI_20150714_001571	{@st43}Craft Arrow{/}
 UI_20150714_001572	{@st59}Close UI{/}
 UI_20150714_001573	{@st66b}Check{/}
@@ -1583,39 +1583,39 @@ UI_20150714_001582	{@st41b}Invite
 UI_20150714_001583	{@st41}If you want to use the joypad or mouse to control your character, you can select this option from the game settings in the system menu.{nl}
 UI_20150714_001584	{memo X}When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{memo X}{@st42}Play Style{/}
-UI_20150714_001586	{@st42}Level Difference{/}
+UI_20150714_001586	{@st42}ความต่าง Level{/}
 UI_20150714_001587	Any
 UI_20150714_001588	{memo X}{@st42}Class Type{/}
-UI_20150714_001589	{memo X}{@st42}Party Name : %s{/}
-UI_20150714_001590	{memo X}{@st42}Description{/}
+UI_20150714_001589	{memo X}{@st42}ชื่อปาร์ตี้ : %s{/}
+UI_20150714_001590	{memo X}{@st42}คำอธิบาย{/}
 UI_20150714_001591	{memo X}{@st42}Enter{/}
-UI_20150714_001592	{@st42}Item Priority
-UI_20150714_001593	{@st42}EXP Priority
-UI_20150714_001594	Individual EXP
-UI_20150714_001595	Equal EXP
-UI_20150714_001596	By Level
-UI_20150714_001597	{@st42}Quest Sharing
-UI_20150714_001598	Disabled
-UI_20150714_001599	{@st42}Public Party{/}
+UI_20150714_001592	{@st42}การแบ่งปัน Item
+UI_20150714_001593	{@st42}การแบ่งปัน EXP
+UI_20150714_001594	ต่างคนต่างเก็บ EXP
+UI_20150714_001595	ได้ EXP เท่ากัน
+UI_20150714_001596	ได้ตาม Level
+UI_20150714_001597	{@st42}การแบ่งปัน Quest
+UI_20150714_001598	ปิด
+UI_20150714_001599	{@st42}ปาร์ตี้สาธารณะ{/}
 UI_20150714_001600	{memo X}Level
-UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
-UI_20150714_001602	By Distance
-UI_20150714_001603	By Class
-UI_20150714_001604	By Level
-UI_20150714_001605	By Quest
-UI_20150714_001606	By Closeness
+UI_20150714_001601	{@st42}ใช้งาน 'แนะนำปาร์ตี้'{/}
+UI_20150714_001602	โดยระยะทาง
+UI_20150714_001603	โดย Class
+UI_20150714_001604	โดย Level
+UI_20150714_001605	โดย Quest
+UI_20150714_001606	โดยความใกล้
 UI_20150714_001607	{memo X}{@st42}Share Party Invite Link
 UI_20150714_001608	>>Party Preview...
-UI_20150714_001609	Party Name : %s
-UI_20150714_001610	Party Description : %s
+UI_20150714_001609	ชื่อปาร์ตี้ : %s
+UI_20150714_001610	รานละเอียดปาร์ตี้: %s
 UI_20150714_001611	Organization Time : %s ago
-UI_20150714_001612	Party Members : %s/5
-UI_20150714_001613	Join
-UI_20150714_001614	{@st59}Search by Party Name or Description{/}
+UI_20150714_001612	จำนวนสมาชิกปาร์ตี้ : %s/5
+UI_20150714_001613	เช้าร่วม
+UI_20150714_001614	{@st59}ค้าหาด้วยชื่อปาร์ตี้หรือรายละเอียด{/}
 UI_20150714_001615	Simple Help Details
-UI_20150714_001616	{@st43}Message Box
-UI_20150714_001617	{@st41b}All
-UI_20150714_001618	{@st41b}Unread Messages
+UI_20150714_001616	{@st43}กล่องข้อความ
+UI_20150714_001617	{@st41b}ทั้งหมด
+UI_20150714_001618	{@st41b}ข้อความที่ยังไม่ได้อ่าน
 UI_20150714_001619	{memo X}{@st43}{s22}Choose a character to receive the items.{/}
 UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
@@ -1641,8 +1641,8 @@ UI_20150714_001640	{@st66b}ระดับเสียง (%s){/}
 UI_20150714_001641	{@st66b}โหมด คุณภาพต่ำ{/}
 UI_20150714_001642	{@st66b}ตั้งค่าอัตโนมัติ{/}
 UI_20150714_001643	{@st66b}ไม่ใช้งาน{/}
-UI_20150714_001644	{@st66b}Apply Bloom{/}
-UI_20150714_001645	{@st66b}Apply Vignette{/}
+UI_20150714_001644	{@st66b}เปิด Bloom{/}
+UI_20150714_001645	{@st66b}เปิด Vignette{/}
 UI_20150714_001646	{@st66b}เปิด FXAA{/}
 UI_20150714_001647	{@st66b}เปิด ภาพฟุ้ง{/}
 UI_20150714_001648	{@st66b}เปิด ภาพแนวลึก{/}
@@ -1655,19 +1655,19 @@ UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
 UI_20150714_001656	{@st66b}Exit Spectator Mode
 UI_20150714_001657	{memo X}Found a game. Do you want to join?
-UI_20150714_001658	{memo X}{@st41}Join
+UI_20150714_001658	{memo X}{@st41}เข้าร่วม
 UI_20150714_001659	{@st41}ปฏิเสธ
 UI_20150714_001660	End Game
-UI_20150714_001661	Deaths
-UI_20150714_001662	Damage
+UI_20150714_001661	จำนวนครั้งที่ตาย
+UI_20150714_001662	ความเสียหาย
 UI_20150714_001663	{@st41}Return to the zone
 UI_20150714_001664	{@st41b}Return to the zone in just %s seconds...{/}
 UI_20150714_001665	{@st59}Opens the message box{/}
 UI_20150714_001666	{@st42}Change Lodge{/}
 UI_20150714_001667	{@st42}Lodge Settings{/}
-UI_20150714_001668	{@st65}%s Score{/}
+UI_20150714_001668	{@st65}%s คะแนน{/}
 UI_20150714_001669	{@st65}×%s{/}
-UI_20150714_001670	{@st65}% Score{/}
+UI_20150714_001670	{@st65}% คะแนน{/}
 UI_20150714_001671	{@st65}×%s{/}
 UI_20150714_001672	Image Description
 UI_20150714_001673	{#000000}%s seconds
@@ -1699,13 +1699,13 @@ UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
 UI_20150717_001701	{@st59}Sorts your inventory{/}
-UI_20150717_001702	{memo X}Sort
+UI_20150717_001702	{memo X}จัดเรียง
 UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
 UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
 UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
-UI_20150717_001707	Attack : %s
-UI_20150717_001708	Defense : %s
+UI_20150717_001707	พลังโจมตี : %s
+UI_20150717_001708	พลังป้องกัน : %s
 UI_20150717_001709	STR : %s
 UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
@@ -1722,24 +1722,24 @@ UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
-UI_20150717_001725	{@st66b}Sort
+UI_20150717_001725	{@st66b}จัดเรียง
 UI_20150717_001726	{@st59}Sorts your items.{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
 UI_20150717_001729	{@st41}Battle Field
-UI_20150717_001730	Results
+UI_20150717_001730	ผลลัพธ์
 UI_20150717_001731	{@st41}Move Immediately
 UI_20150717_001732	{@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
-UI_20150729_001734	Leg Count
-UI_20150729_001735	Height
-UI_20150729_001736	Weight
+UI_20150729_001734	จำนวนขา
+UI_20150729_001735	ส่วนสูง
+UI_20150729_001736	น้ำหนัก
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
-UI_20150729_001742	{@st41}Party Settings
+UI_20150729_001742	{@st41}ตั้งค่า Party
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
@@ -1755,16 +1755,16 @@ UI_20150729_001754	{@st59}Close Team Battle League
 UI_20150729_001755	{@st42}Team Battle League Schedule
 UI_20150729_001756	{@st43}Team Battle League Rankings
 UI_20150729_001757	{@st59}Close Team Battle League Rankings
-UI_20150729_001758	Team Name
+UI_20150729_001758	ชื่อ Team
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
 UI_20150729_001761	{@st59}Delete this Ticket{/}
-UI_20150729_001762	Score
+UI_20150729_001762	คะแนน
 UI_20150729_001763	Join Team Battle League
 UI_20150730_001764	{memo X}{@st56}My Rank
 UI_20150730_001765	{memo X}{@st56}Kill Rank
 UI_20150730_001766	{memo X}{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
+UI_20150803_001767	ทั่วไป: /s <ข้อความ> {nl} ตะโกน: /y <ข้อความ> {nl} ปาร์ตี้: /p <ข้อความ>{nl} กระซิบ: /w <ชื่อทีม> <ข้อความ>
 UI_20150803_001768	{@st66b}Joypad สั่น{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
@@ -1786,10 +1786,10 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} ราคา
-UI_20150918_001789	Nearby Party Info
+UI_20150918_001789	ข้อมูลปาร์ตี้ใกล้เคียง
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
+UI_20150918_001792	{@st42}แสดงปาร์ตี้ใกล้เคียง{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained material for crafting an item!
@@ -1798,8 +1798,8 @@ UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
 UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
 UI_20150918_001799	{@st66b}Return to the field{/}
 UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
-UI_20150918_001801	{@st66b}Try Again{/}
-UI_20150918_001802	{@st66b}Items Sold{/}
+UI_20150918_001801	{@st66b}ลองอีกครั้ง{/}
+UI_20150918_001802	{@st66b}ขาย Items ไปแล้ว{/}
 UI_20150918_001803	{@st53}Ranking Points : %s
 UI_20150918_001804	Total Untradable: %s
 UI_20150918_001805	{@st42b}Check Dialogue{/}
@@ -1811,20 +1811,20 @@ UI_20150918_001810	{@sti9}Damage Rank
 UI_20151001_001811	{@st43}Key Settings{/}
 UI_20151001_001812	{@st45tw2}Category
 UI_20151001_001813	Action
-UI_20151001_001814	Restore defaults
+UI_20151001_001814	กลับสู่ค่าเริ่มต้น
 UI_20151016_001815	{@st59}The selected item will be locked{/}
 UI_20151016_001816	{@st59}You can change the theme of your lodge and preview it.
 UI_20151016_001817	%s ตัวละครs{/}
-UI_20151016_001818	{@st42b}Preview
+UI_20151016_001818	{@st42b}ตัวอย่าง
 UI_20151016_001819	{@st42b}ย้อนกลับ
-UI_20151016_001820	{@st42b}Purchase
-UI_20151016_001821	{@st42b}Apply
+UI_20151016_001820	{@st42b}ซื้อ
+UI_20151016_001821	{@st42b}ใช้งาน
 UI_20151016_001822	Guild Name and Description
-UI_20151016_001823	Team Name
+UI_20151016_001823	ชื่อ Team
 UI_20151016_001824	Title
 UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
-UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
+UI_20151022_001827	{#000000}{s18}Server เต็มแล้ว กำลังเข้า Queue รอ
 UI_20151022_001828	{@st66b18}Current Position : %s
 UI_20151022_001829	{@st66b}แสดง Effects ของตัวละครอื่น
 UI_20151023_001830	{@st41b}iCoin{/}

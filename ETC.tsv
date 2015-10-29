@@ -1913,14 +1913,14 @@ ETC_20150317_001912	{@st59} Click for more information {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
 ETC_20150317_001915	Equipment
-ETC_20150317_001916	Disabled
-ETC_20150317_001917	Enabled
-ETC_20150317_001918	Individual
-ETC_20150317_001919	Round Robin
-ETC_20150317_001920	Random
-ETC_20150317_001921	Equal
-ETC_20150317_001922	By Level
-ETC_20150317_001923	View All
+ETC_20150317_001916	ปิด
+ETC_20150317_001917	เปิด
+ETC_20150317_001918	ต่างคนต่างเก็บ
+ETC_20150317_001919	สลับกัน
+ETC_20150317_001920	สุ่ม
+ETC_20150317_001921	เท่ากัน
+ETC_20150317_001922	ได้ตาม Level
+ETC_20150317_001923	ดูทั้งหมด
 ETC_20150317_001924	Swordsman
 ETC_20150317_001925	Wizard
 ETC_20150317_001926	Archer
@@ -1964,7 +1964,7 @@ ETC_20150317_001963	Socket Bonus
 ETC_20150317_001964	Please put the jewelry into the socket
 ETC_20150317_001965	There is no space
 ETC_20150317_001966	Did you make up your mind?
-ETC_20150317_001967	Whisper
+ETC_20150317_001967	กระซิบ
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
@@ -2649,7 +2649,7 @@ ETC_20150317_002648	Do you want to join this party?
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
 ETC_20150317_002650	You are already in a party
 ETC_20150317_002651	You are currently not in a party.
-ETC_20150317_002652	All
+ETC_20150317_002652	ทั้งหมด
 ETC_20150317_002653	There are not enough party members.
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progressed.
@@ -2659,11 +2659,11 @@ ETC_20150317_002658	Only the party leader can do this.
 ETC_20150317_002659	{memo X}All members must come to {MapName} to begin the Quest.
 ETC_20150317_002660	Not all members are not together.
 ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
-ETC_20150317_002662	has left.
-ETC_20150317_002663	Normal
-ETC_20150317_002664	Shout
-ETC_20150317_002665	Party
-ETC_20150317_002666	To {Who} and {Count} others
+ETC_20150317_002662	ออกไปแล้ว
+ETC_20150317_002663	ทั่วไป
+ETC_20150317_002664	ตะโกน
+ETC_20150317_002665	ปาร์ตี้
+ETC_20150317_002666	ส่งถึง {Who} และอีก {Count} คน
 ETC_20150317_002667	Chat Room List
 ETC_20150317_002668	This user does not exist.
 ETC_20150317_002669	Party Quest Area
@@ -4713,22 +4713,22 @@ ETC_20150317_004712	{S20}{#050505} Defense:
 ETC_20150317_004713	You do not have enough silver.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
-ETC_20150317_004716	{@st61} Normal Chat
+ETC_20150317_004716	{@st61} ทั่วไป
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	Normal Chat
-ETC_20150317_004719	Party Chat
-ETC_20150317_004720	Group
-ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004718	ทั่วไป
+ETC_20150317_004719	ปาร์ตี้
+ETC_20150317_004720	กลุ่ม
+ETC_20150317_004721	เชิญเข้าสู่ chat
+ETC_20150317_004722	ข้อความของระบบ
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
-ETC_20150317_004724	Minimum:
-ETC_20150317_004725	Maximum:
+ETC_20150317_004724	ขั้นต่ำ:
+ETC_20150317_004725	สูงสุด:
 ETC_20150317_004726	{@st43} Silver 0
 ETC_20150317_004727	{@st43} Silver
 ETC_20150317_004728	Discarded
 ETC_20150317_004729	{memo X}(Warp Scroll)
 ETC_20150317_004730	{memo X}Silver
-ETC_20150317_004731	{@st41b}Confirm{/}
+ETC_20150317_004731	{@st41b}ยืนยัน{/}
 ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
 ETC_20150317_004734	Maps
@@ -10649,7 +10649,7 @@ ETC_20150401_010650	{memo X}Glakuman that was attracted to the magical power is 
 ETC_20150401_010651	{memo X}The magic summoning crystals are passing the greater power to the monsters
 ETC_20150401_010652	{memo X}You cannot use this now.
 ETC_20150401_010653	{memo X}You cannot use the skill when you are in a battle
-ETC_20150401_010654	Shout
+ETC_20150401_010654	ตะโกน
 ETC_20150401_010655	Warehouse Keeper
 ETC_20150401_010656	Guidance of Star
 ETC_20150401_010657	Protection of Star
@@ -13503,7 +13503,7 @@ ETC_20150717_013504	/Block
 ETC_20150717_013505	Your name cannot exceed 16 characters {nl}including blank spaces.
 ETC_20150717_013506	Disconnected from the server.{nl}
 ETC_20150717_013507	Moving to login mode after 3 seconds.
-ETC_20150717_013508	Cannot connect to server.
+ETC_20150717_013508	ไม่สามารถเชื่อมต่อ Server ได้
 ETC_20150717_013509	Your ID exceeds the maximum length allowed.
 ETC_20150717_013510	Your username or password is incorrect. {nl}Please note that passwords are case sensitive.
 ETC_20150717_013511	Server shutdown is incomplete, or you are already logged in.{nl}Server shutdown may take up to 3 minutes.
@@ -13516,7 +13516,7 @@ ETC_20150717_013517	You disconnected from the server{nl}due to a verification fa
 ETC_20150717_013518	Your password is incorrect.
 ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To create a new character, you must first delete an existing character.
 ETC_20150717_013520	Please enter your account password.
-ETC_20150717_013521	Entering the world...
+ETC_20150717_013521	กำลังเข้าเกม...
 ETC_20150717_013522	Do you want to learn this attribute?
 ETC_20150717_013523	กำลังเชื่อมต่อ Server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
@@ -14602,11 +14602,11 @@ ETC_20150918_014603	Do you accept the Friendly Duel request from {Name}?
 ETC_20150918_014604	Start Friendly Duel!
 ETC_20150918_014605	The field boss in this region has been defeated.
 ETC_20150918_014606	You cannot participate PvP it the current map due to an error.
-ETC_20150918_014607	{Name} requested to join the party.
-ETC_20150918_014608	Do you want to join this party?
-ETC_20150918_014609	Round Robin
-ETC_20150918_014610	Random
-ETC_20150918_014611	Individual
+ETC_20150918_014607	{Name} ขอเข้าร่วมปาร์ตี้
+ETC_20150918_014608	คุณต้องการเข้าร่วมปาร์ตี้นี้?
+ETC_20150918_014609	สลับกัน
+ETC_20150918_014610	สุ่ม
+ETC_20150918_014611	ต่างคนต่างเก็บ
 ETC_20150918_014612	Shared
 ETC_20150918_014613	Unshared
 ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
